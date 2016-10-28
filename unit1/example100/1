@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<string.h>
+
+int fun(unsigned char *A,char *B)
+{
+	int i;
+	sprintf(B, "%x", A);      
+	
+}
+
+int main(void)
+{
+	int i;
+	unsigned char A[16] = {188};
+	char B[32];
+	fun(A, B);
+	for(i=0;i<16;i++)
+	{
+		printf("%c",B[i]);
+	}
+}
+

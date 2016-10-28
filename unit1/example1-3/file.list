@@ -1,0 +1,9 @@
+a.out
+example1.c
+file.list
+总用量 32
+drwxr-xr-x 2 wx wx  4096 10月 22 11:46 ./
+drwxr-xr-x 3 wx wx  4096 10月 22 11:20 ../
+-rwxrwxr-x 1 wx wx 13635 10月 22 11:30 a.out*
+-rw-rw-r-- 1 wx wx   435 10月 22 11:30 example1.c
+-rw-rw-r-- 1 wx wx    27 10月 22 11:46 file.list
